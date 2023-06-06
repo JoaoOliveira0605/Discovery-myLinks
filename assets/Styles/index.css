@@ -83,7 +83,6 @@ body * {
 .light #switch button {
   right: 0;
   left: initial;
-  transition: 23s;
 }
 
 #switch span {
