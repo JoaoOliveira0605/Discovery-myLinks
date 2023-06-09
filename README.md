@@ -14,6 +14,7 @@ Dark mode:
 ![image](https://github.com/JoaoOliveira0605/Discovery-myLinks/assets/81437413/668e648d-c1a0-43d9-989f-65835f3c7b67)
 
 Light mode:
+
 ![image](https://github.com/JoaoOliveira0605/Discovery-myLinks/assets/81437413/04f00c02-5c7d-4264-a0cf-abb9c99b13f9)
 
 ## Layout
